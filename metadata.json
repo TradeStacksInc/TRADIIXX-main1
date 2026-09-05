@@ -1,0 +1,6 @@
+{
+  "name": "Tradiixx",
+  "description": "Tradiixx - China-to-Nigeria Import Engine. AI-Powered Sourcing, Manufacturer Intelligence, Procurement & Logistics Platform for Nigerian Traders and Importers.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
